@@ -7,3 +7,4 @@ Use git status to display any changes made to a Git repository.
 Assuming that you are currently within a Git repository that includes several commits, write the command (or commands) that will display the changes from the commit with the ID of abc123.
 Use git show abc123 to display info and changes on the commit.
 Assuming that you are currently within a Git repository that includes multiple commits, write the command (or commands) that will display the IDs and commit messages for the 3 most recent commits.
+Use git log to show the most recent commits or git log --oneline to view a simplified summary of your commits.

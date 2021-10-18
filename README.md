@@ -5,4 +5,5 @@ Type in touch hello-world.txt to create the file. Use git add hello-world.txt to
 Assuming that you are currently within a Git repository that contains a file named 'README.md', write the command (or commands) that will display any uncommitted changes made to this file.
 Use git status to display any changes made to a Git repository.
 Assuming that you are currently within a Git repository that includes several commits, write the command (or commands) that will display the changes from the commit with the ID of abc123.
+Use git show abc123 to display info and changes on the commit.
 Assuming that you are currently within a Git repository that includes multiple commits, write the command (or commands) that will display the IDs and commit messages for the 3 most recent commits.
